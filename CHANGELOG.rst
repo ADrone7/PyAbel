@@ -15,6 +15,7 @@ Unreleased
   performance and full support of non-uniform sampling (PR #415).
 * Direct method now, by default, assumes zero intensity outside the image frame
   but can optionally disregard a constant background, as before (PR #419).
+* Added Nestor Olsen transform method
 
 v0.9.1 (2025-09-22)
 -------------------
